@@ -12,5 +12,5 @@ def salvador():
     
 if __name__ == "__main__":
     #app.run(debug=True)
-    app.run(host='192.168.1.151')
+    app.run(debug=True, host='0.0.0.0')
   #We made two new changes
